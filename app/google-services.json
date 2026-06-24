@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "143860207817",
+    "firebase_url": "https://smartchili-default-rtdb.firebaseio.com",
+    "project_id": "smartchili",
+    "storage_bucket": "smartchili.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143860207817:android:a36e6332e2dd99e2b5bd18",
+        "android_client_info": {
+          "package_name": "com.example.smartchili"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFdFM0HfECh3prwynMvWkiB4nu1OFiEZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
