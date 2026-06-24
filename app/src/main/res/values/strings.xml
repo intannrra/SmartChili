@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Smart Chili</string>
+    <string name="app_name">SmartChili</string>
+    <string name="app_title">🌶️ SMARTCHILI</string>
+    <string name="app_subtitle">Monitoring Suhu Berbasis IoT</string>
 </resources>
